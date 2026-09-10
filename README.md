@@ -3,7 +3,7 @@
 🎓 BCS Graduate With 9.14cgpa | MCA Student at IMCC, Pune
 
 💻 Currently learning:
-
+* Python
 * Java
 * Data Structures & Algorithms
 
